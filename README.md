@@ -1,6 +1,6 @@
 # Hi there, I'm Robie!
 
-**Fresh Graduate** | **Backend Developer** |  **Lifelong Learner**
+**Backend Developer** | **API Integrations** |  **Lifelong Learner**
 
 ---
 ## Tech Stack
